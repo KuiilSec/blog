@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "W00F W00F"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kuiilsec"
+name                     : "r_vd_l"
 description              : "Cybersecurity blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kuiilsec"
+  name             : "r_vd_l"
   avatar           : "/assets/images/logo.jpg"
-  bio              : "OSCP, CRTO, OSWE Student"
+  bio              : "OSCP, CRTO, OSWE, OSEP student"
   location         :
   email            :
   links:
@@ -113,7 +113,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://bugcrowd.com/r_vd_l"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
