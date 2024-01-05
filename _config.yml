@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "r_vd_l"
-  avatar           : "/assets/images/logo.jpg"
+  avatar           : "/assets/images/logo.png"
   bio              : "OSCP, CRTO, OSWE, OSEP student"
   location         :
   email            :
