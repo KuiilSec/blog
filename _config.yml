@@ -115,7 +115,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://bugcrowd.com/r_vd_l"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/rjtvanderlinden"
     - label: "Oracle Hall Of Fame"
       icon: "fas fa-fw fa-link"
