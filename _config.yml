@@ -108,12 +108,15 @@ author:
   location         :
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/KuiilSec/"
     - label: "Bugcrowd Profile"
       icon: "fas fa-fw fa-link"
       url: "https://bugcrowd.com/r_vd_l"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://linkedin.com/in/rjtvanderlinden"
     - label: "Oracle Hall Of Fame"
       icon: "fas fa-fw fa-link"
       url: "https://www.oracle.com/security-alerts/cpuapr2023.html"
@@ -123,9 +126,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/R-Secure/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
