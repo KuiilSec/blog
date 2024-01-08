@@ -68,7 +68,7 @@ Notice that CodeQL also points us in the right direction for the DOM-Based XSS v
 
 Using this information, we can easily create a proof of concept for this vulnerability. We need to close the src attribute using a `"`, and can then close the image tag using `>`. We are then able to inject arbitrary tags, so we can simply use `r_vd_l"><img src=x onerror=prompt()>` as a proof of concept: 
 
-![](/blog/assets/images/PortswiggerPrompt)
+![](/blog/assets/images/PortswiggerPrompt.PNG)
 
 ### DOM Invader
 
